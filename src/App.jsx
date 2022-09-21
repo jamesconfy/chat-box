@@ -7,7 +7,7 @@ function App() {
       <ChatEngine
         height="100vh"
         projectID="7f5982fd-f5e5-4992-86ad-03b5fef07807"
-        userName="Mr Shameless"
+        userName="Everybody"
         userSecret="123456"
         renderChatFeed={(chatAppFeed) => <ChatFeed {...chatAppFeed} />}
       />
